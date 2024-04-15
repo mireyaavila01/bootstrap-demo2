@@ -1,0 +1,10 @@
+.highlight{
+    border: 1px solid purple;
+    color: darkgreen;
+}
+
+.highlight2 {
+    border:1px solid red;
+    color:darkblue;
+    background-color: aliceblue;
+}
